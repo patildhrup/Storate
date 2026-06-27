@@ -8,7 +8,7 @@ A full-stack, role-based web application that allows users to discover local sto
 ![User Dashboard](./screenshots/user-dash.png)
 
 ### Store Owner Dashboard
-![Add Store](./screenshots/image copy.png)
+![Store Owner Dashboard](./screenshots/image%20copy.png)
 
 ### Admin Dashboard (System Overview)
 ![Admin Dashboard](./screenshots/admin-dash.png)
@@ -118,3 +118,8 @@ If you ran the seeding script, you can test the roles using these credentials:
 - **Admin:** `admin@example.com` / `Admin@1234`
 - **Owner:** `owner@example.com` / `Owner@1234`
 - **User:** `user@example.com` / `User@1234`
+
+---
+
+### 🎉 Thanks for visiting! 
+Thank you for checking out RateMyStore. If you have any questions or feedback, feel free to open an issue or reach out!
